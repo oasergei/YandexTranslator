@@ -8,6 +8,7 @@
 
 import Foundation
 
+//for future
 struct Langs: Codable {
     let dirs: [String]?
     let langs: [String: String]?
